@@ -12,6 +12,6 @@ discord: gen#1337
 twitter: [@mudi11](https://twitter.com/mudi11)
 
 preview: https://generiskk.github.io/yard-logo-bounce/
-
+inverted preview: https://generiskk.github.io/yard-logo-bounce/inverted/
 
 
