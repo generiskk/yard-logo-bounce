@@ -5,8 +5,8 @@ let ctx;
 let logoColor;
 
 let dvd = {
-    x: 544,
-    y: 528,
+    x: Math.random() * (window.innerWidth - 544),
+    y: Math.random() * (window.innerHeight - 528),
     xspeed: 3,
     yspeed: 3,
     img: new Image()
