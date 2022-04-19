@@ -1,5 +1,5 @@
 let speed = 20;
-let scale = 0.4;
+let scale = 0.43;
 let canvas;
 let ctx;
 let logoColor;
